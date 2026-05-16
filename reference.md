@@ -1,9 +1,9 @@
-https://github.com/vercel-labs/skills/blob/main/skills/find-skills/SKILL.md
-https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md
-https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md
-https://github.com/addyosmani/agent-skills/blob/main/skills/frontend-ui-engineering/SKILL.md
-https://github.com/addyosmani/agent-skills/blob/main/skills/context-engineering/SKILL.md
-https://github.com/vercel-labs/agent-skills/blob/main/skills/composition-patterns/SKILL.md
-https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md
-https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md
-https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md
+1. https://github.com/vercel-labs/skills/blob/main/skills/find-skills/SKILL.md
+2. https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md
+3. https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md
+4. https://github.com/addyosmani/agent-skills/blob/main/skills/frontend-ui-engineering/SKILL.md
+5. https://github.com/addyosmani/agent-skills/blob/main/skills/context-engineering/SKILL.md
+6. https://github.com/vercel-labs/agent-skills/blob/main/skills/composition-patterns/SKILL.md
+7. https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md
+8. https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md
+9. https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md
