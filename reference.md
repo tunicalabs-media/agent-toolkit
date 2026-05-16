@@ -3,3 +3,7 @@ https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practice
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md
 https://github.com/addyosmani/agent-skills/blob/main/skills/frontend-ui-engineering/SKILL.md
 https://github.com/addyosmani/agent-skills/blob/main/skills/context-engineering/SKILL.md
+https://github.com/vercel-labs/agent-skills/blob/main/skills/composition-patterns/SKILL.md
+https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md
+https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md
+https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md
