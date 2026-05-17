@@ -65,13 +65,12 @@ This guide explains what each skill or prompt is capable of and what kind of imp
 | [`owasp-security`](skills/owasp-security/README.md) | Reviewing broad web security concerns. | Better protection against OWASP Top 10 risks such as broken access control, injection, auth failures, SSRF, and misconfiguration. | `security-nextjs` |
 | [`mobile-security-coder.md`](prompts/mobile-security-coder.md) | Implementing or reviewing mobile security patterns. | Better secure storage, WebView hardening, mobile auth, device API handling, and client-side privacy controls. | `owasp-security` |
 
-## Testing, Verification, Mobile, and Media
+## Testing, Verification, and Mobile
 
 | Skill or Prompt | Use When | Improves | Best Paired With |
 | --- | --- | --- | --- |
 | [`webapp-testing`](skills/webapp-testing/README.md) | You need browser verification of local web app behavior. | Better UI confidence through Playwright-style navigation, screenshots, console logs, and interaction checks. | `TEST_STRATEGY.md`, `SYSTEMATIC_DEBUGGING.md` |
 | [`react-native-best-practices`](skills/react-native-best-practices/README.md) | Working on React Native performance or native/mobile bottlenecks. | Better FPS, TTI, memory use, bundle size, native profiling, and animation performance. | `mobile-security-coder.md` |
-| [`remotion-best-practices`](skills/remotion-best-practices/README.md) | Creating or debugging Remotion video code. | Better frame-based animation, media handling, captions, audio, sequencing, and render reliability. | `SYSTEMATIC_DEBUGGING.md` |
 
 ## Deployment and Platform Prompts
 

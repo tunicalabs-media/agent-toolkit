@@ -15,7 +15,7 @@ Use this library when you want repeatable agent behavior for:
 - React, Next.js, Tailwind, and frontend implementation work
 - Web application testing and UI verification
 - Security audits and secure coding workflows
-- React Native and Remotion domain guidance
+- React Native domain guidance
 - Skill discovery, context setup, and prompt reuse
 
 ## Structure
@@ -66,7 +66,6 @@ Use this table when you are choosing the best skill or prompt for a task.
 | Documenting a major technical decision | [ARCHITECTURE_DECISION_RECORD.md](prompts/ARCHITECTURE_DECISION_RECORD.md) | Prompt | Captures decision context, alternatives, tradeoffs, consequences, and revisit triggers. |
 | Building a Tailwind design system | [tailwind-design-system](skills/tailwind-design-system/README.md) | Skill | Tailwind v4 tokens, theming, component variants, and design-system conventions. |
 | Working on React Native performance | [react-native-best-practices](skills/react-native-best-practices/README.md) | Skill | Mobile FPS, TTI, memory, bundle, native, and animation performance guidance. |
-| Working on Remotion video code | [remotion-best-practices](skills/remotion-best-practices/README.md) | Skill | Frame-based animation, media assets, captions, audio, sequencing, and render checks. |
 | Looking for a missing capability | [find-skills](skills/find-skills/README.md) | Skill | Discovers external skills when this library does not cover a workflow. |
 
 ## Prompt Index
@@ -125,12 +124,11 @@ Standalone prompts are reusable, copyable workflows that do not need the full sk
 | [owasp-security](skills/owasp-security/README.md) | OWASP Top 10 secure coding patterns for authentication, access control, injection, SSRF, and configuration risks. | `npx skills add https://github.com/hoodini/ai-agents-skills --skill owasp-security` |
 | [security-nextjs](skills/security-nextjs/README.md) | Next.js-specific security audit patterns for environment variables, Server Actions, middleware, API routes, and headers. | `npx skills add https://github.com/igorwarzocha/opencode-workflows --skill security-nextjs` |
 
-### Testing, Media, and Mobile
+### Testing and Mobile
 
 | Skill | Description | Source |
 | --- | --- | --- |
 | [react-native-best-practices](skills/react-native-best-practices/README.md) | React Native performance guidance for FPS, TTI, memory, native bottlenecks, bundles, and animations. | `npx skills add https://github.com/callstackincubator/agent-skills --skill react-native-best-practices` |
-| [remotion-best-practices](skills/remotion-best-practices/README.md) | Remotion video creation guidance for React-based compositions, assets, sequencing, captions, audio, and rendering. | `npx skills add https://github.com/remotion-dev/skills --skill remotion-best-practices` |
 | [webapp-testing](skills/webapp-testing/README.md) | Playwright-oriented workflow for testing local web apps, inspecting browser behavior, and capturing screenshots. | See [`reference.md`](reference.md) for multiple source commands. |
 
 ### Agent Workflow

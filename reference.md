@@ -53,12 +53,11 @@ Skills marked with `🌟` are recommended baseline additions because they help a
 | react-best-practices | `npx skills add https://github.com/sickn33/antigravity-awesome-skills --skill react-best-practices` |
 | nextjs-app-router-patterns | `npx skills add https://github.com/wshobson/agents --skill nextjs-app-router-patterns` |
 
-## Testing, Media, and Mobile Skills
+## Testing and Mobile Skills
 
 | Skill | Install Command |
 | --- | --- |
 | webapp-testing | `npx skills add https://github.com/github/awesome-copilot --skill webapp-testing` |
-| remotion-best-practices | `npx skills add https://github.com/remotion-dev/skills --skill remotion-best-practices` |
 | react-native-best-practices | `npx skills add https://github.com/callstackincubator/agent-skills --skill react-native-best-practices` |
 
 ## Notes
