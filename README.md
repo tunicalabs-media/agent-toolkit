@@ -8,6 +8,8 @@ This repository is documentation-only. It does not contain a runnable applicatio
 
 Skills live under [`skills/`](skills). Each skill folder contains a `SKILL.md` definition and, where useful, supporting rule files, references, scripts, or assets. Standalone reusable prompts live under [`prompts/`](prompts). The root catalog helps you discover the right asset quickly, while each skill-level `README.md` provides a short documentation page with source, purpose, features, use cases, and included files.
 
+For a capability-oriented overview, see [`CAPABILITY_GUIDE.md`](CAPABILITY_GUIDE.md).
+
 Use this library when you want repeatable agent behavior for:
 
 - React, Next.js, Tailwind, and frontend implementation work
